@@ -1,0 +1,1 @@
+wsadmin.bat -username wasadmin -password wasadmin -f D:/forwindows/StartTest.py
