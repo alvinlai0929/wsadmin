@@ -16,4 +16,4 @@ for (nodename,servername) in j2eeServerTuples:
     else:
         (state, pid) = (AdminControl.getAttribute(serverMBean,'state'), AdminControl.getAttribute(serverMBean,'pid'))
 
-    print "%20s: %-30s => %15s : %s" % ( nodename, servername, state, pid)
+    print "%20s: %-30s => %15s : %s" % ( nodename, servername, state, pid) 
