@@ -1,2 +1,2 @@
-＃StartTest.py為起始程式
+#＃StartTest.py為起始程式
 wsadmin.bat -username wasadmin -password wasadmin -f D:/forwindows/StartTest.py
